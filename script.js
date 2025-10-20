@@ -4,9 +4,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const subtitleElement = document.getElementById('typing-subtitle');
     // You can add more phrases to this array!
     const textArray = [
-        "A Passionate Software Engineering Student",
-        "A Full-Stack Developer",
-        "An AI and Cloud Enthusiast"
+        "A Passionate Software Engineering Student...",
+        "A Full-Stack Developer...",
+        "An AI and Cloud Enthusiast..."
     ];
     
     let textArrayIndex = 0; // Index for the current phrase

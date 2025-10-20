@@ -202,6 +202,8 @@ nav {
 .logo img {
     height: 40px; /* Adjust the height of your logo */
     width: auto; /* Maintains the aspect ratio */
+    border-radius: 50%;
+
 }
 
 .nav-links {
